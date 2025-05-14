@@ -1,0 +1,11 @@
+scikit-learn
+numpy
+pandas
+seaborn
+scipy
+matplotlib
+threadpoolctl==3.1.0
+factor_analyzer
+pingouin
+pca
+prince==0.7.1
